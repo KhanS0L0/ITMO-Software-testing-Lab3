@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+// https://www.lamoda.ru/catalogsearch/result/
 public class LamodaFilterPage {
 
     @FindBy(xpath = "//button[contains(text(),'Хорошо')]")
